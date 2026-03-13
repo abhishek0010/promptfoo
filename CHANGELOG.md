@@ -4,6 +4,18 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [0.121.3](https://github.com/promptfoo/promptfoo/compare/0.121.2...0.121.3) (2026-03-13)
+
+
+### Features
+
+* **app:** add manual filtering to DataTable and improve filter UX ([#8122](https://github.com/promptfoo/promptfoo/issues/8122)) ([46dfdf5](https://github.com/promptfoo/promptfoo/commit/46dfdf57298b0cd6afa98b2b626bcb53e150cca8))
+
+
+### Bug Fixes
+
+* **redteam:** fix Rules of Hooks violation in RiskCategoryDrawer ([#8072](https://github.com/promptfoo/promptfoo/issues/8072)) ([afb2732](https://github.com/promptfoo/promptfoo/commit/afb2732d823c0c97ef3a4f332e032861739b55ad))
+
 ## [0.121.2](https://github.com/promptfoo/promptfoo/compare/0.121.1...0.121.2) (2026-03-12)
 
 ### Bug Fixes
